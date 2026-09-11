@@ -1,5 +1,4 @@
-# chem13-portfolio-paliza
-CHEM 13 Organic Chemistry Portfolio
+# CHEM 13 Organic Chemistry Portfolio
 
 Prince Angelo B. Paliza, BS ChE - 2B
 
