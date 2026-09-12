@@ -1,4 +1,10 @@
-AI Use Disclosure
+AI Tool(s) Used:
+- Gemini (Google)
 
-Tool(s) used:
-Purpose:
+Purpose of AI Utilization:
+1. Brainstorming thematic compound grouping ("The Vanilloid Chemistry Triad") to ensure functional group variety and chemical engineering relevance.
+2. Generating structured text templates and visual layout ideas for the individual infographic panels.
+3. Outlining potential chemical engineering unit operations (e.g., supercritical fluid extraction, crystallization, and oxidative cleavage) associated with each compound.
+
+Verification and Student Responsibility:
+In accordance with course guidelines, all factual claims, numerical physical properties, IUPAC nomenclature, 2D molecular structures, safety profiles, and APA citations generated or assisted by AI were independently cross-referenced, checked for structural accuracy, and verified against authoritative primary databases (PubChem, ECHA, NIOSH) prior to final submission.
